@@ -10,7 +10,7 @@ Este é um aplicativo simples de restaurante inspirado no mundo mágico de Harry
 
 ## Como usar
 
-Certifique-se de ter Python instalado em seu sistema. Clone este repositório e execute o arquivo `restaurant_app.py` para iniciar o aplicativo.
+Certifique-se de ter Python instalado em seu sistema. Clone este repositório e execute o arquivo `Restaurante.py` para iniciar o aplicativo.
 
 ```bash
-python restaurant_app.py
+python Restaurante.py
